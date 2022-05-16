@@ -10,5 +10,9 @@ public class Dummy1 {
 	}
 
 	public void thisIsANewMethod(){
+
+	for (int i = 0; i < 5; i++){
+
+}
 }
 }
