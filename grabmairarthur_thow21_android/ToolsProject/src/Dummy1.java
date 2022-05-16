@@ -11,7 +11,10 @@ public class Dummy1 {
 	}
 
 	public void thisIsANewMethod() {
-		int x = 0;
-		x = 567;
+
+		for (int i = 0; i < 5; i++) {
+
+		}
 	}
+
 }
