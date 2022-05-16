@@ -17,6 +17,7 @@ int j = 2;
 System.outprintln("hallo");
 
 		for (int i = 0; i < 5; i++) {
+			i += 1;
 
 		}
 	}
