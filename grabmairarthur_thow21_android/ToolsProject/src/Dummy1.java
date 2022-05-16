@@ -4,6 +4,8 @@ public class Dummy1 {
 
 	void init() {
 
+int i = 0;
+
 		while (true) {
 			System.out.println("Projekttools sind sowas von toll!");
 		}
