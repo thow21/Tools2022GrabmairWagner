@@ -9,6 +9,7 @@ int j = 2;
 
 		while (true) {
 			System.out.println("Projekttools sind sowas von toll!");
+			System.out.println("Projekte machen Spaß 🙌🏻");
 		}
 
 	}
